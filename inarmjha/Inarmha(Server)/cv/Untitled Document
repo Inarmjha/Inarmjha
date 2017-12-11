@@ -1,0 +1,2 @@
+Inarmja operating system works to communicate between app and the aurdino board.Face detected by the door camera(webcam) will be sent to the server which in turn communicates with the app.
+User gives command to the OS which uses natural language processing to understand the command and orders the aurdino board(door) to open the door by sending a signal. 
